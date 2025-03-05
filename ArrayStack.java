@@ -25,7 +25,7 @@ public int pop()
  int data=-1;
  if(isEmpty())
  {
- System.out.println("Stack is Underflow. No elements to be popped in Empty Stack”");
+ System.out.println("Stack is Underflow.No elements to be popped in Empty Stack");
  }
 else{
     data=stack[top];
